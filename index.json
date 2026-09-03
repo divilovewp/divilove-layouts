@@ -1,0 +1,23 @@
+{
+  "schema": 2,
+  "base": "https://cdn.jsdelivr.net/gh/shashankgupta-dev/divilove-layouts@main/",
+  "paths": {
+    "group": "groups/{group}.json",
+    "layout": "{group}/{id}.json",
+    "thumb": "thumbs/{id}.webp"
+  },
+  "count": 20,
+  "groups": [
+    {
+      "id": "heroes",
+      "name": "Heroes",
+      "description": "The opening statement under the header: headline, sub, and a call to action.",
+      "count": 20,
+      "h": "7db3250e38c7f43b"
+    }
+  ],
+  "notes": {
+    "tokens": "none — every layout uses literal values, so it imports unchanged onto a site with its own design system",
+    "template": "layouts that paint a full-bleed background expect the blank page template; the importer sets it"
+  }
+}
