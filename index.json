@@ -4,7 +4,8 @@
   "paths": {
     "group": "groups/{group}.json",
     "layout": "{group}/{id}.json",
-    "thumb": "thumbs/{id}.webp"
+    "thumb": "thumbs/{id}.webp",
+    "preview": "previews/{id}.webp"
   },
   "count": 20,
   "groups": [
