@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "base": "https://cdn.jsdelivr.net/gh/shashankgupta-dev/divilove-layouts@main/",
+  "base": "https://cdn.jsdelivr.net/gh/divilovewp/divilove-layouts@main/",
   "paths": {
     "group": "groups/{group}.json",
     "layout": "{group}/{id}.json",
